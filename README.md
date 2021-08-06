@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Electronics and Computer Science Engineering
 - 👯 I’m looking to collaborate on Data Science and Open-source projects.
 - 🤔 I’m looking for help with AWS, ML & SD.
-- 💬 Ask me about any anime, tech, science and muscic.
+- 💬 Ask me about any anime, tech, science and music.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karthikjayasekharan/) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like R&B music
